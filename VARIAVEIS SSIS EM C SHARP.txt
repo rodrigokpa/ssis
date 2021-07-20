@@ -1,0 +1,8 @@
+ Dts.Variables["User::Login"].Value.ToString()
+
+
+
+Dts.Variables["User::cam_bac_full"].Value.ToString()
+
+
+Automatização do ETL para carga pelo formulário.

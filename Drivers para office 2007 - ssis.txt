@@ -1,0 +1,13 @@
+Drivers para office 2007 - ssis
+RODRIGO EDUARDO PINTO DE SOUZA
+Seg, 21/07/2014 19:23
+Quando não se tem o office instalado mas necessita acessar os dados.
+http://www.microsoft.com/en-us/download/confirmation.aspx?id=23734
+ 
+2007 Office System Driver: Data Connectivity Components
+ 
+Resolveu o seguinte erro no ssis, ao conectar no excel no data flow task:
+ 
+"the 'microsoft.ace.oledb.12.0' provider is not registered on the local machine"
+ 
+ 

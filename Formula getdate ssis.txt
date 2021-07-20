@@ -1,0 +1,4 @@
+Formula getdate() ssis
+RODRIGO EDUARDO PINTO DE SOUZA
+Qua, 10/01/2018 08:41
+(DT_WSTR,4)DatePart("yyyy", GetDate()) + RIGHT("0" + (DT_WSTR,2)DatePart("mm", GetDate()), 2) + RIGHT("0" + (DT_WSTR,2)DatePart("dd", GetDate()), 2)
